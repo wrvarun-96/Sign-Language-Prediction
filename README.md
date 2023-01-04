@@ -34,20 +34,16 @@ For the above created model we got an accuracy of 97% for training and 92% for t
 ## Result
 
 ### YES
-![alt text](images/yes.png)
+![alt text](images/Yes.png)
 
 ### NO
-![alt text](images/yes.png)
+![alt text](images/No.png)
 
 ### THANKS
-![alt text](images/yes.png)
+![alt text](images/Thanks.png)
 
-### YES
-![alt text](images/yes.png)
-
-
-
-
+### HELLO
+![alt text](images/Hello.png)
 
 
 ## Conclusion
