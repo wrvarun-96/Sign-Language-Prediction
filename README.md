@@ -10,3 +10,7 @@ The architecture of the model for recognizing sign language offers a guide and s
 
 ![alt text](images/Architecture.png)
 
+## LSTM
+An artificial neural network called Long Short-Term Memory (LSTM) is employed in deep learning and artificial intelligence. LSTM features feedback connections as opposed to typical feedforward neural networks. Such a recurrent neural network (RNN) may analyze whole data sequences in addition to single data points (such as photos). For instance, LSTM can be used for applications like speech recognition, robot control, machine translation, networked, unsegmented handwriting recognition, video games, and healthcare.
+
+![alt text](images/LSTM.png)
