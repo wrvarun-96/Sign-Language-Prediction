@@ -1,0 +1,6 @@
+● Python
+● IDE (Jupyter) ● Numpy
+● CV2 (OpenCV) ● Keras
+● Tensorflow
+● Matplotlib
+● Mediapipe
