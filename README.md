@@ -27,6 +27,6 @@ The Graphs that are shown below are from tensorboard. As you can see, the starti
 ![alt text](images/Accuracy.png)
 
 ### Loss
-![alt text](LOSS/Loss.png)
+![alt text](images/Loss.png)
 
 
