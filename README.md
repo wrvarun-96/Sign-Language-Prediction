@@ -30,3 +30,27 @@ The Graphs that are shown below are from tensorboard. As you can see, the starti
 ![alt text](images/Loss.png)
 
 For the above created model we got an accuracy of 97% for training and 92% for testing.
+
+## Result
+
+### YES
+![alt text](images/yes.png)
+
+### NO
+![alt text](images/yes.png)
+
+### THANKS
+![alt text](images/yes.png)
+
+### YES
+![alt text](images/yes.png)
+
+
+
+
+
+
+## Conclusion
+A sign language recognition model can be created using Python modules like OpenCV and Keras to help the disabled community. Here, a set of inputs, like photos, are used to train the created model before it is used to generate a series of messages after recognizing a particular hand motion.
+This model has the unique ability to be trained to create a variety of messages using custom hand gestures, thereby bridging the communication gap between people who require special assistance and the general public.
+
