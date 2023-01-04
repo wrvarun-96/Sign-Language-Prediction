@@ -8,5 +8,5 @@ When hand and other movements are employed in sign language, a sign detector is 
 ## Architecture Diagram
 The architecture of the model for recognizing sign language offers a guide and suitable methods to use when creating a well-structured application that meets our requirements. Three phases primarily comprise this architecture:
 
-![alt text]()
+![alt text](images/Architecture.png)
 
