@@ -29,4 +29,4 @@ The Graphs that are shown below are from tensorboard. As you can see, the starti
 ### Loss
 ![alt text](images/Loss.png)
 
-
+For the above created model we got an accuracy of 97% for training and 92% for testing.
