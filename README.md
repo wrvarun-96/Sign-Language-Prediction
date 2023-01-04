@@ -14,3 +14,19 @@ The architecture of the model for recognizing sign language offers a guide and s
 An artificial neural network called Long Short-Term Memory (LSTM) is employed in deep learning and artificial intelligence. LSTM features feedback connections as opposed to typical feedforward neural networks. Such a recurrent neural network (RNN) may analyze whole data sequences in addition to single data points (such as photos). For instance, LSTM can be used for applications like speech recognition, robot control, machine translation, networked, unsegmented handwriting recognition, video games, and healthcare.
 
 ![alt text](images/LSTM.png)
+
+## Data
+The dataset we require is reasonably easy to find online, however for this project, we will be building the dataset ourselves.
+Every frame that recognizes a hand in the ROI (region of interest) will be streamed live from the camera, and every frame that does so will be saved in a directory. In our project, we will teach 4 sign languages (hello, thanks, yes, no), and each one will have its own folder. Each folder will include 35 videos, each of which has 30 frames.
+
+## Training and Testing
+We built a Deep learning model where we had used five “LSTM” layers and three Dense layers. To make training faster “RelU” activation function is used. Optimizer we have used is “Adam” as it was taking less time for training. Have used “categorical_crossentropy” as it is a multiclass classification. The model has been trained on 300 epochs.
+The Graphs that are shown below are from tensorboard. As you can see, the starting loss was high so the accuracy was very low. When the losses decreased eventually accuracy started to increase.
+
+### Accuracy
+![alt text](images/Accuracy.png)
+
+### Loss
+![alt text](LOSS/Loss.png)
+
+
